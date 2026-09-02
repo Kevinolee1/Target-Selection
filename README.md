@@ -22,6 +22,8 @@ Press Ctrl+S to save
 **Final Policy Verification & Target Acquisition.**
 Local research is appropriate.
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/2831ff1212755a4b0c9a92156570b321f258923d/Target-Selection/Screenshot%202026-09-01%20232453.png)
+
 in PowerShell run: git --version
 
 Go into the targets folder Run: cd targets
