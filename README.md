@@ -36,7 +36,12 @@ Your prompt should change similar to: (.venv) PS C:\Users\eelve\Vulnerability-Re
 
 Clone the official target run: git clone https://github.com/new-usemame/Calibre-Web-NextGen.git 
 
+This downloads the source code into our local research environment. We are not scanning or attacking anything by cloning it.
+
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/0dda3def3769cac781d04170c80632e08e996d5e/Target-Selection/Screenshot%202026-09-01%20233603.png)
+
+When it finishes, run:Get-ChildItem
+
 You should see: Calibre-Web-NextGen
 
 Enter the target
