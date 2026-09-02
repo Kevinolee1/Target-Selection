@@ -3,6 +3,8 @@ Lab 2 — Target Selection  Selected **Calibre-Web NextGen** as the authorized o
 
 **Create our Lab 2 documentation**
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/f41378505c9964fdb215a0993f7e3708a00bd46f/Target-Selection/Screenshot%202026-09-01%20230859.png)
+
 From PowerShell run: notepad notes\target-selection.md
 
 select Yes when prompt
