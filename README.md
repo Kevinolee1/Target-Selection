@@ -40,7 +40,7 @@ Clone the official target run: git clone https://github.com/new-usemame/Calibre-
 
 This downloads the source code into our local research environment. We are not scanning or attacking anything by cloning it.
 
-![Image alt](![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d93a2d6da5764b12f6ef328606052dbc55a792bc/Target-Selection/Screenshot%202026-09-01%20233817.png)
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d93a2d6da5764b12f6ef328606052dbc55a792bc/Target-Selection/Screenshot%202026-09-01%20233817.png)
 
 When it finishes, run:Get-ChildItem
 
@@ -57,6 +57,9 @@ Run: cd Calibre-Web-NextGen
 Get the exact commit Run: git rev-parse HEAD
 
 You'll get a long value similar to: a1b2c3d4e5f6789012345678901234567890abcd
+
+
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/c90e5dfc7ae74ed6ffb2bb51ad0dfa93fd1af89d/Target-Selection/Screenshot%202026-09-01%20234241.png)
 
 Check the branch run: git branch --show-current
 
