@@ -5,7 +5,7 @@ Lab 2 — Target Selection  Selected **Calibre-Web NextGen** as the authorized o
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/f41378505c9964fdb215a0993f7e3708a00bd46f/Target-Selection/Screenshot%202026-09-01%20230859.png)
 
-From PowerShell run: notepad notes\target-selection.md
+In PowerShell, run: notepad notes\target-selection.md
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/40d4a69596cff35d830af2269f34876926ae4fcd/Target-Selection/Screenshot%202026-09-01%20230932.png)
 
@@ -24,7 +24,7 @@ Local research is appropriate.
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/2831ff1212755a4b0c9a92156570b321f258923d/Target-Selection/Screenshot%202026-09-01%20232453.png)
 
-in PowerShell run: git --version
+In PowerShell, run: git --version
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/154b68cf94aaa309db32addfc9b2ba2ea90820e6/Target-Selection/Screenshot%202026-09-01%20232603.png)
 
@@ -42,7 +42,7 @@ This downloads the source code into our local research environment. We are not s
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d93a2d6da5764b12f6ef328606052dbc55a792bc/Target-Selection/Screenshot%202026-09-01%20233817.png)
 
-When it finishes, run:Get-ChildItem
+When it finishes, run: Get-ChildItem
 
 You should see: Calibre-Web-NextGen
 
@@ -61,7 +61,7 @@ You'll get a long value similar to: a1b2c3d4e5f6789012345678901234567890abcd
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/c90e5dfc7ae74ed6ffb2bb51ad0dfa93fd1af89d/Target-Selection/Screenshot%202026-09-01%20234241.png)
 
-Check the branch run: git branch --show-current
+Check the branch. Run: git branch --show-current
 
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d24358cf96f298061c1cf5367a5e48bc2d58bbd2/Target-Selection/Screenshot%202026-09-01%20234430.png)
 
