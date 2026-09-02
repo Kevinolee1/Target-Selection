@@ -36,6 +36,7 @@ Your prompt should change similar to: (.venv) PS C:\Users\eelve\Vulnerability-Re
 
 When it finishes, run: Get-ChildItem Clone the official target Run: Get-ChildItem
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/0dda3def3769cac781d04170c80632e08e996d5e/Target-Selection/Screenshot%202026-09-01%20233603.png)
 You should see: Calibre-Web-NextGen
 
 Enter the target
