@@ -26,6 +26,8 @@ Local research is appropriate.
 
 in PowerShell run: git --version
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/154b68cf94aaa309db32addfc9b2ba2ea90820e6/Target-Selection/Screenshot%202026-09-01%20232603.png)
+
 Go into the targets folder Run: cd targets
 
 Your prompt should change similar to: (.venv) PS C:\Users\eelve\Vulnerability-Research-Lab\targets>
