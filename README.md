@@ -73,6 +73,8 @@ git branch --show-current
 
 git status
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/f0dea58b3784f2c58d18cec8e62c8fc3208603a6/Target-Selection/Screenshot%202026-09-01%20234907.png)
+
 Go back to the main project directory run: cd C:\Users\eelve\Vulnerability-Research-Lab
 
 Open your Lab 2 notes run: notepad notes\target-selection.md
