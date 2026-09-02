@@ -11,6 +11,8 @@ From PowerShell run: notepad notes\target-selection.md
 
 select Yes when prompt
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/ba1bd99fadd27caad38ebb33e02d0102e6999b5e/Target-Selection/Screenshot%202026-09-01%20231240.png)
+
 Now paste the following into the Notepad file:
 
 Press Ctrl+S to save 
