@@ -7,6 +7,8 @@ Lab 2 — Target Selection  Selected **Calibre-Web NextGen** as the authorized o
 
 From PowerShell run: notepad notes\target-selection.md
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/40d4a69596cff35d830af2269f34876926ae4fcd/Target-Selection/Screenshot%202026-09-01%20230932.png)
+
 select Yes when prompt
 
 Now paste the following into the Notepad file:
