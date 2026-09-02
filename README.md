@@ -22,4 +22,29 @@ Your prompt should change similar to: (.venv) PS C:\Users\eelve\Vulnerability-Re
 
 When it finishes, run: Get-ChildItem
 
-Clone the official target Run:
+Clone the official target Run: Get-ChildItem
+
+You should see: Calibre-Web-NextGen
+
+Enter the target
+
+Run: cd Calibre-Web-NextGen
+
+Get the exact commit Run: git rev-parse HEAD
+
+You'll get a long value similar to: a1b2c3d4e5f6789012345678901234567890abcd
+
+Check the branch run: git branch --show-current
+
+Run these three commands:
+git rev-parse HEAD
+
+git branch --show-current
+
+Go back to the main project directory run: cd C:\Users\eelve\Vulnerability-Research-Lab
+
+Open your Lab 2 notes run: notepad notes\target-selection.md
+
+At the bottom, add: Save with Ctrl + S and close Notepad.
+
+
