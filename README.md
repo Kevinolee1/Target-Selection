@@ -52,6 +52,7 @@ You should see: Calibre-Web-NextGen
 
 Run: cd Calibre-Web-NextGen
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/31b1a584e9d6a89427d61ee06d249685a586fd46/Target-Selection/Screenshot%202026-09-01%20234130.png)
 
 Get the exact commit Run: git rev-parse HEAD
 
