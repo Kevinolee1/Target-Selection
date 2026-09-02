@@ -15,6 +15,8 @@ select Yes when prompt
 
 Now paste the following into the Notepad file:
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/b60f81a79acdea95af2c501e50cea373b6731a91/Target-Selection/Screenshot%202026-09-01%20231338.png)
+
 Press Ctrl+S to save 
 
 **Final Policy Verification & Target Acquisition.**
