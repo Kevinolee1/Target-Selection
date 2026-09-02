@@ -48,6 +48,8 @@ You should see: Calibre-Web-NextGen
 
 **Enter the target**
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/2ef993daed33c4a094003691cb01bbaade160697/Target-Selection/Screenshot%202026-09-01%20234024.png)
+
 Run: cd Calibre-Web-NextGen
 
 
