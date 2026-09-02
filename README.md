@@ -66,9 +66,12 @@ Check the branch run: git branch --show-current
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d24358cf96f298061c1cf5367a5e48bc2d58bbd2/Target-Selection/Screenshot%202026-09-01%20234430.png)
 
 Run these three commands:
+
 git rev-parse HEAD
 
 git branch --show-current
+
+git status
 
 Go back to the main project directory run: cd C:\Users\eelve\Vulnerability-Research-Lab
 
