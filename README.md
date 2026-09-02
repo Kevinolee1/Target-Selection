@@ -81,6 +81,7 @@ Go back to the main project directory run: cd C:\Users\eelve\Vulnerability-Resea
 
 Open your Lab 2 notes run: notepad notes\target-selection.md
 ![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/92e0a0a705be96cdf103067bffaef44f0629acb8/Target-Selection/Screenshot%202026-09-01%20235633.png)
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/636a9c578726c431e9250dc474885f05373c0bd6/Target-Selection/Screenshot%202026-09-02%20000919.png)
 
 At the bottom, add:
 
