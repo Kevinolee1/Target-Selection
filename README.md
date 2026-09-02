@@ -32,6 +32,8 @@ Go into the targets folder Run: cd targets
 
 Your prompt should change similar to: (.venv) PS C:\Users\eelve\Vulnerability-Research-Lab\targets>
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/003b98aaecbef694a8afe36a457041413a0450fc/Target-Selection/Screenshot%202026-09-01%20233420.png)
+
 When it finishes, run: Get-ChildItem
 
 Clone the official target Run: Get-ChildItem
