@@ -44,7 +44,7 @@ When it finishes, run:Get-ChildItem
 
 You should see: Calibre-Web-NextGen
 
-Enter the target
+**Enter the target**
 
 Run: cd Calibre-Web-NextGen
 
