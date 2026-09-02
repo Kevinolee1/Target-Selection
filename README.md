@@ -43,6 +43,8 @@ Enter the target
 
 Run: cd Calibre-Web-NextGen
 
+![Image alt](https://github.com/Kevinolee1/Target-Selection/blob/d93a2d6da5764b12f6ef328606052dbc55a792bc/Target-Selection/Screenshot%202026-09-01%20233817.png)
+
 Get the exact commit Run: git rev-parse HEAD
 
 You'll get a long value similar to: a1b2c3d4e5f6789012345678901234567890abcd
